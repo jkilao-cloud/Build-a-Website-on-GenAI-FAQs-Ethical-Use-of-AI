@@ -3,7 +3,10 @@ A webpage that is about the ethical use of AI. It quickly discusses about the va
 ==================================================================================================================================================================================================
 Instructions:
 1. open respository
-2. run Homepage.html
+2. press green button with code
+3. download zip file
+4. extract all
+5. run Homepage.html
 
 Framework and/or Libraries:
 1. Bootstrap
