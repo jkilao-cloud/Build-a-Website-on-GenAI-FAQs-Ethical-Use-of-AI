@@ -6,4 +6,4 @@ Instructions:
 2. run Homepage.html
 
 Framework and/or Libraries:
--Bootstrap
+1. Bootstrap
