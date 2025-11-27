@@ -4,6 +4,6 @@ A webpage that is about the ethical use of AI. It quickly discusses about the va
 Instructions:
 1. open respository
 2. run Homepage.html
-==================================================================================================================================================================================================
+
 Framework and/or Libraries:
 -Bootstrap
